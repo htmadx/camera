@@ -20,3 +20,8 @@
 margin: 0;
 padding: 0;
 }
+.fotos-imagem{
+     width:25%;}
+.fotografia{
+    background-image: linear-gradient(#000000);
+}
