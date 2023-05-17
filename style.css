@@ -23,5 +23,12 @@ padding: 0;
 .fotos-imagem{
      width:25%;}
 .fotografia{
-    background-image: linear-gradient(#000000);
+    background-image: linear-gradient(#000000, #86747400);
+    color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.fotografia-conteudo{
+    width: 35%;
 }
