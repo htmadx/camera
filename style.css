@@ -32,3 +32,8 @@ padding: 0;
 .fotografia-conteudo{
     width: 35%;
 }
+body{
+    font-family: 'Playfair Display', serif;
+}
+.camera-imagem{
+width:20px; }
