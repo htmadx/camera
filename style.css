@@ -36,4 +36,16 @@ body{
     font-family: 'Playfair Display', serif;
 }
 .camera-imagem{
-width:20px; }
+    width:120px; 
+}
+.camera-div{
+    text-align: center;
+}
+.cameras-fotografia{
+    text-align: center;
+    padding: 50px 0;
+}
+.camera-todos {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
